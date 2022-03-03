@@ -3,7 +3,7 @@
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="260"> 
 </div>
 
-<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vimal!</h1>
+<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vignesh D!</h1>
 
 I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source and problem solving. I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
 <br>
@@ -57,7 +57,7 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vimalprogrammer&show_icons=true&theme=gotham" alt="vimalprogrammer" />  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=compact&theme=dracula"><!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> 
 </div> 
  <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalprogrammer")>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh968")>
 <div align="center">
 
  ### Coding Stats
