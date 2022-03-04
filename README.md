@@ -1,7 +1,7 @@
 
 <div align="center"> 
- <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="250" height="260"> 
- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="260"> 
+ <img src="https://media1.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif?cid=ecf05e47smuhaephbgmuqepys4lmolac37hmzo00kzniparp&rid=giphy.gif&ct=g" width="250" height="260"> 
+ <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47d012u3gkc30hpkaa3rn5q5nz01je4df1hs2izsmm&rid=giphy.gif&ct=g" width="500" height="260"> 
 </div>
 
 <h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vignesh</h1>
