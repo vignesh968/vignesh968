@@ -4,7 +4,7 @@
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="260"> 
 </div>
 
-<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vimal!</h1>
+<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vignesh</h1>
 
 I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source and problem solving. I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
 <br>
@@ -45,9 +45,9 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <a href="mailto:vigneshd235@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/vicky.devaraj.7" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
 <a  href="https://www.instagram.com/vignesh___d/?utm_medium=copy_link"><img alt=" Telegram" src="https://img.shields.io/badge/instagram-209230?style=for-the-badge&logo=instagram&logoColor=white">
- <a href="https://leetcode.com/vimal_ms/"> <img src="https://img.shields.io/badge/leetcode-999999?style=for-the-badge&logo=leetcode&logoColor=black">
-  <a href="https://www.youtube.com/channel/UCNyc_8sfzp_jYsx3A3LpmjA"> <img src="https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=red">
-   <a href="https://www.codechef.com/users/vimalm"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink">
+ <a href="https://leetcode.com/vigneshd235/"> <img src="https://img.shields.io/badge/leetcode-999999?style=for-the-badge&logo=leetcode&logoColor=black">
+  <a href="https://www.youtube.com/channel/UCRqUT3b5b00Nbtk_HhZWBWQ"> <img src="https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=red">
+   
  </a>
 
 </div>
