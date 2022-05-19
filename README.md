@@ -24,7 +24,6 @@ I have great enthusiasm in new innovative technologies and I love to learn and l
  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
   
 
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%278F7D64E" />
 
 </p>
@@ -54,10 +53,10 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 
 <h1 align="center">Github Stats</h1>
  <div align="center" >
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vimalprogrammer&show_icons=true&theme=gotham" alt="vimalprogrammer" />  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=compact&theme=dracula"><!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> 
+<p align="center"> <img src=""alt="vignesh" />  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=compact&theme=dracula"><!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> 
 </div> 
  <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalprogrammer")>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh968")>
 <div align="center">
 
  ### Coding Stats
