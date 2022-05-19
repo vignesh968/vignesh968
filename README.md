@@ -51,13 +51,6 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 
 </div>
 
-<h1 align="center">Github Stats</h1>
- <div align="center" >
-<p align="center"> <img src=""alt="vignesh" />  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh968&layout=compact&theme=dracula"><!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> 
-</div> 
- <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh968")>
-<div align="center">
 
  ### Coding Stats
 <!--START_SECTION:waka-->
@@ -67,6 +60,13 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <!--..-->
+<h1 align="center">Github Stats</h1>
+ <div align="center" >
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vignesh968&show_icons=true&theme=gotham" alt="vignesh968" />  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh968&layout=compact&theme=dracula"><!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> 
+</div> 
+ <div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh968")>
+<div align="center">
  
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vignesh968&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
