@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vignesh</h1>
 
-I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source and problem solving. I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
+I  Completed my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source and problem solving. I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=vignesh968&label=Profile%20views&color=ce9927&style=flat" alt="Vignesh968" /> </p>
